@@ -2,7 +2,7 @@ TTConsole work on TomTom START (2003-2010)
 
 I have installed it on mine !
 
-Bootloader version : S5.55282
-Memory : 64 MB
+Bootloader version : S5.55282                                                                                                                    
+Memory : 64 MB                                                                                                                                                                                                                                                                                  
 Device ID : XM2242K03169
 ...
