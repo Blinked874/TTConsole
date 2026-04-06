@@ -1,10 +1,7 @@
-TTConsole work on TomTom START (2003-2010)
+Format the TomTom START drive ('INTERNAL') : FAT                                                                                                                                                                                                                   
 
-I have installed it on mine !
+Decompress ARCHIVE.RAR intoo the drive.
 
-Bootloader version : S5.55282
-Memory : 64 MB
-Device ID : XM2242K03169
-...
+Restart with reset on the TomTom START.
 
-  
+Enjoy !
